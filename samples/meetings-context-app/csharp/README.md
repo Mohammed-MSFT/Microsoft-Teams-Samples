@@ -79,7 +79,7 @@ Ensure that you've [enabled the Teams Channel](https://docs.microsoft.com/en-us/
 - You can expand/reduce the JSON for the context object and can also copy a particular object slice.
 
 - You can send one of these two commands: **Meeting Context** or **Participant Context**
-- It will send you the output of `TeamsInfo.GetMeetingInfoAsync` and `TeamsInfo.GetMeetingParticipantAsync`
+- It will send you the output of `TeamsInfo.GetMeetingInfoAsync` and `TeamsInfo.GetMeetingParticipantAsync`.
 
 ## Further reading
 
